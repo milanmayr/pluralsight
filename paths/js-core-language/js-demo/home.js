@@ -1,8 +1,3 @@
-// show the title
-showMessage("Changed");
 
-/*
-    Detail complex logic...
-    Some algorithm...
-    Source code license
-*/
+var price = 25;
+showMessage(price);
