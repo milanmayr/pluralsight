@@ -1,5 +1,6 @@
 # Local .terraform directories
-paths/certfied-kubernetes-administrator/.terraform/
+paths/certfied-kubernetes-administrator/terraform/.terraform/
+.terraform/
 
 # .tfstate files
 *.tfstate
