@@ -8,3 +8,10 @@ paths/certfied-kubernetes-administrator/terraform/.terraform/
 **/plan.tf
 **/.terraform.lock.hcl
 **/terraform.tfstate.backup
+
+# Mac OS system files
+.DS_Store
+
+# Executables
+# Executable
+go-webservice
